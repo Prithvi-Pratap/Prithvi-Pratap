@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 My latest deployed project [https://sculptsociety.netlify.app](https://sculptsociety.netlify.app)
 
-- 💬 Ask me about  **animated website,gsap, vanila-tilt, scroll-trigger,canvas**
+- 💬 Ask me about  **animated website, GSAP, sheryJS, vanila-tilt, scroll-trigger, canvas**
 
 - 📫 How to reach me **https://www.linkedin.com/in/prithvi-pratap-9a47b6221**
 
