@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **REACT JS**
 
-- 👨‍💻 My latest deployed project [https://sculptsociety.netlify.app](https://sculptsociety.netlify.app)
+- 👨‍💻 My latest deployed project [https://sculptsociety.netlify.app](https://sculptsociety.netlify.app) , [https://randompassword-react.vercel.app](https://randompassword-react.vercel.app)
 
 - 💬 Ask me about  **backend,animated website, GSAP,locomotive js**
 
